@@ -18,4 +18,5 @@ Main features:
 4- Display index values of the day
 5- Provide stock price estimation using linear regression?
 6-
+
 Django, React/Redux, Heroku, Bootstrap
